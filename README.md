@@ -26,7 +26,7 @@ As a member of the **Golden Key International Honour Society**, I maintain a com
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/yourusername/weexchange">
+  <a href="http://weexhange.atwebpages.com">
     <img src="https://via.placeholder.com/500x300/1a1b27/2e9fff?text=WeExchange+Demo" alt="WeExchange Demo">
   </a>
 </td>
@@ -44,7 +44,7 @@ Engineered a comprehensive Customer-to-Customer marketplace tailored for South A
 **Tech Stack:** `PHP` `MySQL` `JavaScript` `Bootstrap` `HTML5/CSS3`
 
 <a href="https://github.com/yourusername/weexchange" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00A6ED?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="http://weexhange.atwebpages.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00A6ED?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
 </td>
 </tr>
@@ -56,9 +56,9 @@ Engineered a comprehensive Customer-to-Customer marketplace tailored for South A
 <tr>
 <td width="50%">
 
-### ⚖️ MedLaw Digital Services Platform
+### ⚖️ MerLaw Digital Services Platform
 
-Developed a professional B2C e-commerce solution for MED Attorneys, automating consultation bookings and enabling digital product sales, reducing administrative overhead by 60%.
+Developed a professional B2C e-commerce solution for MER Attorneys, automating consultation bookings and enabling digital product sales, reducing administrative overhead by 60%.
 
 **Impact:**
 - Architected secure booking system processing 50+ weekly appointments
@@ -67,13 +67,13 @@ Developed a professional B2C e-commerce solution for MED Attorneys, automating c
 
 **Tech Stack:** `React.js` `Node.js` `Express.js` `PostgreSQL` `PayFast API`
 
-<a href="https://github.com/yourusername/medlaw" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00A6ED?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://github.com/yourusername/merlaw" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="http://merlaws.gt.tc" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00A6ED?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
 </td>
 <td width="50%">
-  <a href="https://github.com/yourusername/medlaw">
-    <img src="https://via.placeholder.com/500x300/1a1b27/2e9fff?text=MedLaw+Demo" alt="MedLaw Demo">
+  <a href="http://merlaws.gt.tc">
+    <img src="https://via.placeholder.com/500x300/1a1b27/2e9fff?text=MerLaw+Demo" alt="MerLaw Demo">
   </a>
 </td>
 </tr>
