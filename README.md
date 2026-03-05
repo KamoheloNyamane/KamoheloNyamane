@@ -65,14 +65,14 @@ Developed a professional B2C e-commerce solution for MER Attorneys, automating c
 - Integrated PayFast API for seamless payment processing with 99.9% uptime
 - Built responsive admin dashboard for real-time sales analytics and inventory management
 
-**Tech Stack:** `React.js` `Node.js` `Express.js` `PostgreSQL` `PayFast API`
+**Tech Stack:** `PHP` `MySQL` `JavaScript` `Bootstrap` `Apache` `HTML5` `CSS3` `REST API` `PayFast API`
 
 <a href="https://github.com/yourusername/merlaw" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="http://merlaws.gt.tc" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00A6ED?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://www.supremeaircare.ca/index.php" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00A6ED?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
 </td>
 <td width="50%">
-  <a href="http://merlaws.gt.tc">
+  <a href="https://www.supremeaircare.ca/index.php">
     <img src="https://via.placeholder.com/500x300/1a1b27/2e9fff?text=MerLaw+Demo" alt="MerLaw Demo">
   </a>
 </td>
