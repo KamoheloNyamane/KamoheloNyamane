@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kamohelo Nyamane</h1>
-<h3 align="center">Computer Science Student | AI/ML Enthusiast | Project Management & Full-Stack Development</h3>
+<h3 align="center">Computer Science Graduate | AI/ML Enthusiast | Project Management & Full-Stack Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Third+Year+CS+Student;AI%2FML+%26+Project+Management;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Computer+Science+Graduate;AI%2FML+%26+Project+Management;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-As a third-year Computer Science student at **Eduvos Midrand** (graduating 2026), I build scalable web applications and apply AI/ML concepts to solve real-world problems. I specialize in full-stack development with a focus on **e-commerce solutions** and **project management methodologies**.
+As a recent Computer Science graduate from **Eduvos Midrand** (graduating 2026), I build scalable web applications and apply AI/ML concepts to solve real-world problems. I specialize in full-stack development with a focus on **e-commerce solutions** and **project management methodologies**.
 
 As a member of the **Golden Key International Honour Society**, I maintain a commitment to academic excellence while developing production-ready applications that address market needs in South Africa's digital economy.
 
