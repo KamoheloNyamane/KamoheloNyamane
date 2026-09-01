@@ -9,15 +9,15 @@
 
 ## 👨‍💻 About Me
 
-I am a recent **BSc Computer Science graduate (May 2026)** currently advancing my technical expertise through a **BSc Honours in Software Engineering** at Eduvos Midrand, with expected completion in November 2026[cite: 3]. I specialize in bridging the gap between complex analytical logic and enterprise-grade system architecture.
+I am a recent **BSc Computer Science graduate (May 2026)** currently advancing my technical expertise through a **BSc Honours in Software Engineering** at Eduvos Midrand, with expected completion in November 2026. I specialize in bridging the gap between complex analytical logic and enterprise-grade system architecture.
 
-As a member of the **Golden Key International Honour Society**, I maintain a strict commitment to academic and technical excellence[cite: 3]. My recent focus has expanded beyond full-stack development into architecting governed AI pipelines (RAG) and developing quantitative algorithmic trading models for high-frequency financial indices[cite: 3]. 
+As a member of the **Golden Key International Honour Society**, I maintain a strict commitment to academic and technical excellence. My recent focus has expanded beyond full-stack development into architecting governed AI pipelines (RAG) and developing quantitative algorithmic trading models for high-frequency financial indices. 
 
-- 🔭 **Currently Building:** Local Retrieval-Augmented Generation (RAG) pipelines using open-source LLMs like DeepSeek-R1 for secure, unstructured data parsing[cite: 3].
-- 🌱 **Actively Learning:** Institutional Order Flow, statistical arbitrage, and advanced prompt engineering[cite: 3].
+- 🔭 **Currently Building:** Local Retrieval-Augmented Generation (RAG) pipelines using open-source LLMs like DeepSeek-R1 for secure, unstructured data parsing.
+- 🌱 **Actively Learning:** Institutional Order Flow, statistical arbitrage, and advanced prompt engineering.
 - 🎯 **Career Objective:** Seeking 2027 graduate and internship opportunities in Software Development, Business Analytics, and Project Management.
-- 🏆 **Recognition:** Golden Key International Honour Society Member[cite: 3].
-- 📍 **Based in:** Midrand, Johannesburg, South Africa[cite: 3].
+- 🏆 **Recognition:** Golden Key International Honour Society Member.
+- 📍 **Based in:** Midrand, Johannesburg, South Africa.
 
 ---
 
@@ -34,11 +34,11 @@ As a member of the **Golden Key International Honour Society**, I maintain a str
 
 ### 📈 Quantitative Algorithmic Trading Architect
 
-Engineered custom Expert Advisors (EAs) and integrated Python pipelines to execute automated trading strategies for high-frequency index markets including the NASDAQ 100 and S&P 500[cite: 3].
+Engineered custom Expert Advisors (EAs) and integrated Python pipelines to execute automated trading strategies for high-frequency index markets including the NASDAQ 100 and S&P 500.
 
 **Impact:**
-- Programmatically identified complex market structures like Fair Value Gaps and Liquidity Sweeps based on Institutional Order Flow[cite: 3].
-- Translated highly volatile, high-frequency JSON data feeds into actionable execution rules[cite: 3].
+- Programmatically identified complex market structures like Fair Value Gaps and Liquidity Sweeps based on Institutional Order Flow.
+- Translated highly volatile, high-frequency JSON data feeds into actionable execution rules.
 
 **Tech Stack:** `Python` `MQL5` `Statistical Logic` `JSON`
 
@@ -56,11 +56,11 @@ Engineered custom Expert Advisors (EAs) and integrated Python pipelines to execu
 
 ### 🛒 WeExchange - C2C E-Commerce Platform
 
-Developed a scalable Customer-to-Customer e-commerce platform tailored for informal traders in South Africa[cite: 3].
+Developed a scalable Customer-to-Customer e-commerce platform tailored for informal traders in South Africa.
 
 **Impact:**
-- Integrated third-party payment gateways (Yoco, Payfast) to handle secure transactional data lifecycles and escrow logic[cite: 3].
-- Architected comprehensive SQL relational databases managing user registrations and secure transactions[cite: 3].
+- Integrated third-party payment gateways (Yoco, Payfast) to handle secure transactional data lifecycles and escrow logic.
+- Architected comprehensive SQL relational databases managing user registrations and secure transactions.
 
 **Tech Stack:** `PHP` `MySQL` `JavaScript` `Bootstrap` `Third-Party APIs`
 
@@ -89,11 +89,11 @@ Developed a scalable Customer-to-Customer e-commerce platform tailored for infor
 
 ### ⚖️ MedLaw Digital Services Platform
 
-Architected a professional B2C application for a legal firm featuring complex relational database schemas and systemic risk management[cite: 3].
+Architected a professional B2C application for a legal firm featuring complex relational database schemas and systemic risk management.
 
 **Impact:**
-- Engineered secure data pathways for user authentication and third-party financial API payment gateways[cite: 3].
-- Designed normalized database architectures emphasizing data integrity and high-volume transaction processing[cite: 3].
+- Engineered secure data pathways for user authentication and third-party financial API payment gateways.
+- Designed normalized database architectures emphasizing data integrity and high-volume transaction processing.
 
 **Tech Stack:** `PHP` `MySQL` `JavaScript` `Bootstrap` `REST API` `PayFast API`
 
@@ -147,26 +147,26 @@ Architected a professional B2C application for a legal firm featuring complex re
 ## 💼 What I'm Currently Working On
 
 🔬 **Governed AI Architecture & RAG Pipelines**  
-Integrating AI coding agents (like Cursor) into daily workflows and deploying local LLMs to safely analyze unstructured data while maintaining strict data boundaries for regulated environments[cite: 3].
+Integrating AI coding agents (like Cursor) into daily workflows and deploying local LLMs to safely analyze unstructured data while maintaining strict data boundaries for regulated environments.
 
 📊 **Automated Vulnerability Detection Research**  
 Focusing my Software Engineering Honours research on combining Fine-Tuned Code-LLMs and Symbolic Logic to automate software vulnerability detection in modern CI/CD pipelines.
 
 ⚙️ **Intelligent Workflow Automation**  
-Developing custom JavaScript browser extensions equipped with "human-in-the-loop" review mechanisms to automate repetitive data-entry and significantly optimize systemic processes[cite: 3].
+Developing custom JavaScript browser extensions equipped with "human-in-the-loop" review mechanisms to automate repetitive data-entry and significantly optimize systemic processes.
 
 ---
 
 ## 🎓 Education & Certifications
 
 **BSc Honours in Software Engineering**  
-Eduvos Midrand | Expected Completion: Nov 2026[cite: 3]
+Eduvos Midrand | Expected Completion: Nov 2026
 
 **Bachelor of Science in Computer Science**  
-Eduvos Midrand | Graduated: May 2026[cite: 3]
+Eduvos Midrand | Graduated: May 2026
 
 **Honors & Memberships:**
-- 🏅 Golden Key International Honour Society Member[cite: 3]
+- 🏅 Golden Key International Honour Society Member
 - 🎯 Focus Areas: AI Integration, Quantitative Logic, Enterprise Database Architecture, System Resilience
 
 ---
